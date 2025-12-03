@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Ramiro Borges, tenho 16 anos e estudo, fazendo Ensino Médio. Sou apaixonado por tecnologia e estou aprendendo programação de forma autodidata
+Me chamo Ramiro Borges, tenho 16 anos, fazendo Ensino Médio. Sou apaixonado por tecnologia e estou aprendendo programação de forma autodidata
 
 <p align="left">
     <a href="https://www.instagram.com/ramir_borgs/">
